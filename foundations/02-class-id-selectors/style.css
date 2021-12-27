@@ -1,0 +1,20 @@
+.odd {	
+    background-color: rgb(255, 143, 143);
+    font-family: Verdana, sans-serif;
+  }
+
+.n3 {	
+    font-size: 24px;
+}
+
+#n2 {	
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#n4 {	
+    background-color: rgb(141, 247, 141);
+    font-size: 24px;
+    font-weight: bold;
+    
+}
