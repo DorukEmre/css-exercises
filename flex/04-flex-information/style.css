@@ -7,10 +7,34 @@ img {
   height: 100px;
 }
 
+.header,
+.individual-plant {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
 .title {
   font-size: 36px;
-  font-weight: 900;
+  font-weight: 900; 
+  padding-bottom: 32px;
 }
+
+.all-plants {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 52px;
+}
+
+.individual-plant {
+  max-width: 200px;
+}
+
+.text {
+  text-align: center;
+}
+
+
 
 /* do not edit this footer */
 .footer {
